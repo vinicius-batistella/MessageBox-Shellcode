@@ -1,0 +1,6 @@
+﻿  GPA_With_C++.cpp
+C:\Users\vinic\OneDrive\Área de Trabalho\Username_MessageBox\GPA_With_C++\GPA_With_C++\GPA_With_C++.cpp(13,12): warning C4477: 'printf': a cadeia de formato '%i' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'HMODULE'
+C:\Users\vinic\OneDrive\Área de Trabalho\Username_MessageBox\GPA_With_C++\GPA_With_C++\GPA_With_C++.cpp(13,12): warning C4313: 'printf': '%i' na cadeia de formato está em conflito com o argumento 1 do tipo 'HMODULE'
+C:\Users\vinic\OneDrive\Área de Trabalho\Username_MessageBox\GPA_With_C++\GPA_With_C++\GPA_With_C++.cpp(17,12): warning C4477: 'printf': a cadeia de formato '%i' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'HMODULE'
+C:\Users\vinic\OneDrive\Área de Trabalho\Username_MessageBox\GPA_With_C++\GPA_With_C++\GPA_With_C++.cpp(17,12): warning C4313: 'printf': '%i' na cadeia de formato está em conflito com o argumento 1 do tipo 'HMODULE'
+  GPA_With_C++.vcxproj -> C:\Users\vinic\OneDrive\Área de Trabalho\Username_MessageBox\GPA_With_C++\x64\Debug\GPA_With_C++.exe
